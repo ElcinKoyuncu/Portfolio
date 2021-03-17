@@ -1,11 +1,11 @@
-# homework2
+# Portfolio
 
 ## Description
 
 This is the homework for portfolio.
 
 ## Link for the repo
-[My first homework](https://elcinkoyuncu.github.io/homework1/)
+[My second homework](https://elcinkoyuncu.github.io/Portfolio/)
 
 ## Screenshot for the application
 
