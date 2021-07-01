@@ -1,17 +1,11 @@
-# Portfolio
+# Updated Portfolio
 
 ## Description
 
-This is the homework for portfolio.
+This is the homework for updated portfolio.
 
 ## Link for the repo
-[My second homework](https://elcinkoyuncu.github.io/Portfolio/)
-
-## Screenshot for the application
-
-![Screenshot](./images/screenshot.png)
-
-
+[My homework](https://elcinkoyuncu.github.io/Portfolio/)
 
 
 ## User Story
